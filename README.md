@@ -24,9 +24,25 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
    - Monthly transaction trends  
    - Sales by coffee type segmented by **time of day** (Morning, Afternoon, Night)
 
+
 ## 🖼️ Dashboard Preview  
 ### Coffee Store Dashboard  
- 
+ <img width="844" height="499" alt="Screenshot 2025-09-22 2057055" src="https://github.com/user-attachments/assets/f2ecd322-cca8-4ee4-b541-1fd197991751" />
 
 ### Transaction Activities of Sales  
-![Transaction Activities](./assets/transaction-activities-dashboard.png) 
+<img width="812" height="463" alt="Screenshot 2025-09-26 141327ws" src="https://github.com/user-attachments/assets/ee3e78d9-2323-4308-a2ea-2146f2f4f925" />
+
+## 📂 Repository Structure 
+    # 📂 coffee-shop-sales-dashboard
+    # ┣ 📂 assets
+    # ┃ ┣ coffee-store-dashboard.png
+    # ┃ ┗ transaction-activities-dashboard.png
+    # ┣ coffee_shop_sales.pbix
+    # ┗ README.md
+
+## 🛠️ Requirements
+Power BI Desktop (latest version)
+Access to the coffee shop sales dataset (CSV/Excel/Database as configured)
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request with improvements.
